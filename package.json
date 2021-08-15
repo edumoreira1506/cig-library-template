@@ -1,0 +1,19 @@
+{
+  "name": "cig-library-template",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edumoreira1506/cig-library-template.git"
+  },
+  "author": "Eduardo Moreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edumoreira1506/cig-library-template/issues"
+  },
+  "homepage": "https://github.com/edumoreira1506/cig-library-template#readme"
+}
