@@ -19,7 +19,10 @@
     "skipLibCheck": true,
     "allowJs": true,
     "forceConsistentCasingInFileNames": true,
-    "baseUrl": "./src"
+    "baseUrl": "./src",
+    "paths": {
+      
+    }
   },
   "include": [
     "src/**/*.ts"
